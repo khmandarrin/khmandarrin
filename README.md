@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=%E2%81%BA%CB%9A%E2%8B%86.%C2%B0%E2%9C%A9%E2%82%8Amandarin's%20github%E2%81%BA%CB%9A%E2%8B%86.%C2%B0%E2%9C%A9%E2%82%8A&fontSize=45&animation=twinkling&fontColor=BFFF00" />
+  <img src="https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=%E2%81%BA%CB%9A%E2%8B%86.%C2%B0%E2%9C%A9%E2%82%8Amandarin's%20github%E2%81%BA%CB%9A%E2%8B%86.%C2%B0%E2%9C%A9%E2%82%8A&fontSize=45&animation=twinkling&fontColor=CFFFAC" />
 </p>
 
 

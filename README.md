@@ -14,10 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=mandarin's+github&fontSize=50)
-</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khmandarrin&theme=dracula&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khmandarrin&layout=compact)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=mandarin's+github&fontSize=50" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=khmandarrin&theme=dracula&show_icons=true&hide_border=true" width="48%" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khmandarrin&layout=compact&theme=dracula&hide_border=true" width="48%" />
+</p>
+

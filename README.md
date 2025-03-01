@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=mandarin's+github&fontSize=50)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khmandarrin&theme=dracula&show_icons=true&hide_border)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khmandarrin&theme=dracula&show_icons=true&hide=border)](https://github.com/anuraghazra/github-readme-stats)

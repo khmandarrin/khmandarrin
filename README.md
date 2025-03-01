@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=mandarin's+github%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=mandarin's+github%20render&fontSize=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요;Second+line+of+text)](https://git.io/typing-svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khmandarrin&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khmandarrin&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

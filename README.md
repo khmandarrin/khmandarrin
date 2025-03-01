@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=khmandarrin&theme=dracula&show_icons=true&hide_border=true&bg_color=transparent" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=khmandarrin&theme=dracula&show_icons=true&hide_border=true" width="48%" />
   </a>
 </p>
 

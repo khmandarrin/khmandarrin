@@ -24,6 +24,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=khmandarrin&theme=dracula&show_icons=true&hide_border=true" width="48%" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khmandarrin&layout=compact&theme=dracula&hide_border=true" width="37%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khmandarrin&layout=compact&theme=dracula&hide_border=true" width="35%" />
 </p>
 

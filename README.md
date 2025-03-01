@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=☆‧⁺ ⊹˚.⋆mandarin's+github&fontSize=45&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=%E2%98%86%E2%80%A7%E2%81%BB%E2%86%85%E2%8A%B9%CB%99.%E2%8B%86mandarin's%20github&fontSize=45&animation=twinkling" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />

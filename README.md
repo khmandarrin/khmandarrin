@@ -51,20 +51,51 @@
 ---
 <h1 align="center">Experience</h1>
 
-- 우리FIS 클라우드 서비스 개발 전문가 과정  
-  2025.12 - Present  
+<h2 align="center">🎓 Experience</h2>
 
-- 축구 커뮤니티 Kick-on 서비스 운영  
-  2025.03 - Present  
+<table align="center">
+<tr>
+<td align="center">
 
-- 독서 감상 공유 앱 PICKY  
-  2025.02 - 2025.11  
+<b>우리FIS 클라우드 서비스 개발 전문가 과정</b>  
+2025.12 - Present  
 
-- 패션 기반 매칭 앱 OODD  
-  2024.10 - 2025.03  
+</td>
+<td align="center">
 
-- IT 연합 동아리 코드잇  
-  2024.03 - 2024.09  
+<b>⚽ 축구 커뮤니티 Kick-on 서비스 운영</b>  
+2025.03 - Present  
 
-- ICT COC 공모전 피우다  
-  2024.05 - 2025.07  
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b>📚 독서 감상 공유 앱 PICKY</b>  
+2025.02 - 2025.11  
+
+</td>
+<td align="center">
+
+<b>패션 기반 매칭 앱 OODD</b>  
+2024.10 - 2025.03  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b>IT 연합 동아리 코드잇</b>  
+2024.03 - 2024.09  
+
+</td>
+<td align="center">
+
+<b>ICT COC 공모전 피우다</b>  
+2024.05 - 2025.07  
+
+</td>
+</tr>
+</table>

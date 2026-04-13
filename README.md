@@ -60,7 +60,7 @@
 </td>
 <td align="center">
 
-<b>⚽ 축구 커뮤니티 Kick-on 서비스 운영</b>  
+<b>⚽ 축구 커뮤니티 'Kick-on' 운영</b>  
 2025.03 - Present  
 
 </td>
@@ -69,13 +69,13 @@
 <tr>
 <td align="center">
 
-<b>📚 AI 독서 토론 앱 PICKY</b>  
+<b>📚 AI 독서 토론 앱 'PICKY'</b>  
 2025.02 - 2025.11  
 
 </td>
 <td align="center">
 
-<b>패션 기반 매칭 앱 OODD</b>  
+<b>패션 기반 매칭 앱 'OODD'</b>  
 2024.10 - 2025.03  
 
 </td>
@@ -90,7 +90,7 @@
 </td>
 <td align="center">
 
-<b>ICT COC 공모전 피우다</b>  
+<b>ICT COC 공모전 피우다 프로젝트 '스텝업'</b>  
 2024.05 - 2025.07  
 
 </td>

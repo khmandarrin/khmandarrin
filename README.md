@@ -49,7 +49,7 @@
 </p>
 
 ---
-<h2 align="center">🎓 Experience</h2>
+<h2 align="center">Experience</h2>
 
 <table align="center">
 <tr>

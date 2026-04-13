@@ -26,16 +26,12 @@
 <img src="https://img.shields.io/badge/JPA/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<br/><br/>
-
 **Infra & DevOps**
 
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-<br/><br/>
 
 **Frontend**
 
@@ -69,8 +65,8 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mandarrin&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00B894&icon_color=00B894&text_color=C9D1D9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandarrin&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00B894&text_color=C9D1D9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=khmandarrin&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00B894&icon_color=00B894&text_color=C9D1D9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khmandarrin&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00B894&text_color=C9D1D9" height="170"/>
 
 <br/><br/>
 

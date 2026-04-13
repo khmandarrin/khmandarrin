@@ -55,29 +55,6 @@
 |**📚 AI 독서 토론 앱 'PICKY'**<br/>`2025.02 ~ 2025.11`|**👗 패션 기반 매칭 앱 'OODD'**<br/>`2024.10 ~ 2025.03`|
 |**IT 연합 동아리 코드잇**<br/>`2024.03 ~ 2024.09`|**🏆 ICT COC 공모전 '스텝업'**<br/>`2024.05 ~ 2025.07`|
 
-<br/>
-
----
-
-<br/>
-
-## 📊 GitHub Stats
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=khmandarrin&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00B894&icon_color=00B894&text_color=C9D1D9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khmandarrin&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00B894&text_color=C9D1D9" height="170"/>
-
-<br/><br/>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mandarrin)](https://solved.ac/mandarrin)
-
-<br/>
-
----
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D3436,50:636E72,100:00B894&height=120&section=footer"/>
 
 </div>

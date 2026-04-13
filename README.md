@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D3436,50:636E72,100:00B894&height=200&section=header&text=Mandarrin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer&descSize=18&descAlignY=55&descColor=B2BEC3" width="100%"/>
 
-<br/>
-
-### 서비스를 직접 운영하며 문제를 해결해온 백엔드 개발자
-
 `Spring Boot 기반 API 개발` · `성능 개선` · `서비스 운영`
 
 <br/>

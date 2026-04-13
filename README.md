@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&section=header&text=Backend%20Developer&fontSize=45&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=130&section=header&text=Backend%20Developer&fontSize=45&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -7,9 +7,9 @@
   <br/>
   Spring Boot 기반 API 개발 · 성능 개선 · 서비스 운영 경험
 </p>
-
 <br/>
-# 🛠 Tech Stack
+
+<h1 align="center">Tech Stack</h1>
 
 <p align="center">
   <b>Backend</b>

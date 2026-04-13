@@ -1,36 +1,94 @@
-<!--
-**khmandarrin/khmandarrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=%E2%81%BA%CB%9A%E2%8B%86.%C2%B0%E2%9C%A9%E2%82%8Amandarin's%20github%E2%81%BA%CB%9A%E2%8B%86.%C2%B0%E2%9C%A9%E2%82%8A&fontSize=45&animation=twinkling&fontColor=CFFFAC" />
+  <img src="https://capsule-render.vercel.app/api?type=Transparent&height=120&section=header&text=Backend%20Developer&fontSize=40&animation=fadeIn" />
 </p>
 
+## 👋 About Me
 
+서비스를 직접 운영하며 문제를 해결해온 백엔드 개발자입니다.  
+Spring Boot 기반 API 개발과 데이터 처리, 성능 개선을 중심으로 서비스를 구축하고 운영해왔습니다.  
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
-</br>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node&logoColor=white" />
-    <!-- <img src="https://img.shields.io/badge/nextjs.svg?style=for-the-badge&logo=typescript&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+## 🛠 Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jpa-59666C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+### Infra & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+### ⚽ 축구 커뮤니티 **Kick-on**  
+**2025.03 - Present**
+
+- 승부예측, 실시간 채팅, 숏폼 기능을 제공하는 축구 커뮤니티 서비스 개발 및 운영
+- 인기 숏폼 조회 API 성능 개선 (응답 시간 약 75% 단축)
+- 외부 축구 API 연동 및 데이터 마이그레이션 로직 구현
+- JWT 기반 인증 구조 설계 및 운영 환경 장애 대응
+
+---
+
+### 📚 독서 감상 공유 앱 **PICKY**  
+**2025.02 - 2025.11**
+
+- 생성형 AI 기반 독서 토론 서비스 백엔드 API 개발
+- RAG 구조를 적용해 신뢰도 높은 응답 생성 기능 구현
+- 벡터 DB 기반 검색 기능 설계
+
+---
+
+### 👗 패션 기반 매칭 서비스 **OODD**  
+**2024.10 - 2025.03**
+
+- 실시간 채팅 및 알림 기능 개발
+- Node.js 기반 서비스를 Spring Boot 구조로 마이그레이션
+
+---
+
+### 🌱 ICT COC 공모전 **피우다**  
+**2024.05 - 2025.07**
+
+- 노숙인과 농가를 연결하는 일자리 중계 플랫폼 개발
+- Spring Boot 기반 회원 관리 API 개발
+- 현장 인터뷰 기반 서비스 기능 설계
+
+---
+
+## 🎓 Experience
+
+- 우리FIS 클라우드 서비스 개발 전문가 과정  
+  2025.12 - Present  
+
+- IT 연합 동아리 코드잇  
+  2024.03 - 2024.09  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khmandarrin&show_icons=true" />
+</p>

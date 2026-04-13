@@ -49,8 +49,7 @@
 </p>
 
 ---
-
-# 🎓 Experience
+<h1 align="center">Experience</h1>
 
 - 우리FIS 클라우드 서비스 개발 전문가 과정  
   2025.12 - Present  

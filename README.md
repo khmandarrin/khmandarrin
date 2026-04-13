@@ -23,8 +23,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square"/>
 </p>
 
-<br/>
-
 <p align="center">
   <b>Infra</b>
 </p>
@@ -35,8 +33,6 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square"/>
   <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat-square"/>
 </p>
-
-<br/>
 
 <p align="center">
   <b>Frontend</b>

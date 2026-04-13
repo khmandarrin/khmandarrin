@@ -69,7 +69,7 @@
 <tr>
 <td align="center">
 
-<b>📚 독서 감상 공유 앱 PICKY</b>  
+<b>📚 AI 독서 토론 앱 PICKY</b>  
 2025.02 - 2025.11  
 
 </td>

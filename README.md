@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square"/>
 </p>
 
----
 <h2 align="center">Experience</h2>
 
 <table align="center">

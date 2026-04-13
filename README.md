@@ -25,7 +25,9 @@
 
 # 🛠 Tech Stack
 
-### Backend
+<p align="center">
+  <b>Backend</b>
+</p>
 
 <p align="center">  
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -35,7 +37,11 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square"/>
 </p>
 
-### Infra
+<br/>
+
+<p align="center">
+  <b>Infra</b>
+</p>
 
 <p align="center">  
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square"/>
@@ -44,7 +50,11 @@
   <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat-square"/>
 </p>
 
-### Frontend
+<br/>
+
+<p align="center">
+  <b>Frontend</b>
+</p>
 
 <p align="center">  
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square"/>

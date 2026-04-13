@@ -9,7 +9,7 @@
 </p>
 <br/>
 
-<h1 align="center">Tech Stack</h1>
+<h2 align="center">Tech Stack</h1>
 
 <p align="center">
   <b>Backend</b>
@@ -49,8 +49,6 @@
 </p>
 
 ---
-<h1 align="center">Experience</h1>
-
 <h2 align="center">🎓 Experience</h2>
 
 <table align="center">

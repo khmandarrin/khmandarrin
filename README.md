@@ -27,24 +27,30 @@
 
 ### Backend
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square"/>
-<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square"/>
+<p align="center">  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square"/>
+</p>
 
 ### Infra
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square"/>
-<img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat-square"/>
+<p align="center">  
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat-square"/>
+</p>
 
 ### Frontend
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square"/>
+<p align="center">  
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square"/>
+</p>
 
 ---
 
@@ -67,9 +73,3 @@
 
 - ICT COC 공모전 피우다  
   2024.05 - 2025.07  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khmandarrin&show_icons=true&theme=default" />
-</p>
